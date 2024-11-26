@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anchie! <br/><a href="https://github.com/Anchiee">Programmer</a>
+<h1>Hi, I'm Anchie! <br/><a href="https://github.com/Anchiee">Fullstack developer</a>
 
 <h2>Pronouns: <i>He/him</i></h2>
 <h2>Age: <i>16 years old</i></h2>
