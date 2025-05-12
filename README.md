@@ -7,7 +7,7 @@
 
 - - All of my projects are available at -> [https://github.com/Anchiee?tab=repositories](https://github.com/Anchiee?tab=repositories)
 
-- - I'm looking for friends to talk about programming -> [Discord: anchie_](Discord: anchie_)
+- - I'm looking for friends to talk about programming -> Discord: anchie_
 
 - - Ask me about -> **react, laravel, accessibility, seo and responsiveness**
 
