@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchiee&label=Profile%20views&color=0e75b6&style=flat" alt="anchiee" /> </p>
 
-- - I’m currently working on -> **A paid commission, can't tell more info**
+ - I’m currently working on -> **A paid commission, can't tell more info**
 
-- - All of my projects are available at -> [https://github.com/Anchiee?tab=repositories](https://github.com/Anchiee?tab=repositories)
+ - All of my projects are available at -> [https://github.com/Anchiee?tab=repositories](https://github.com/Anchiee?tab=repositories)
 
-- - I'm looking for friends to talk about programming -> Discord: anchie_
+ - I'm looking for friends to talk about programming -> Discord: anchie_
 
-- - Ask me about -> **react, laravel, accessibility, seo and responsiveness**
+ - Ask me about -> **react, laravel, accessibility, seo and responsiveness**
 
-- - How to reach me -> **wyhwtf@gmail.com**
+ - How to reach me -> **wyhwtf@gmail.com**
 
 - Fun fact **I love food**
 
